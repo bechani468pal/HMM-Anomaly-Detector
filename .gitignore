@@ -1,0 +1,12 @@
+venv/
+venv312/
+hmm_env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+
+*.log
+.DS_Store
